@@ -1,0 +1,21 @@
+.counter{
+
+ width:fit-content;
+    background-color:#256D85;
+    margin:.2rem;
+    padding:.3rem;
+    text-align:center;
+    border-radius:10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius:10px;
+    -ms-border-radius:10px;
+    -o-border-radius:10px;
+}
+.counter button{
+  margin:.2rem;
+  padding:.2rem
+}
+.btn-stock button{
+   font-family:'Montserrat';
+   padding:.2rem
+}
